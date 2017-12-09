@@ -146,9 +146,9 @@ https://www.iana.org/
 http://www.iana.org/domains/root/db
 
 ##### 较好的第三方WHOIS查询工具
-https://who.is/
-https://research.domaintools.com/
-https://whois.icann.org/en
+https://who.is/   
+https://research.domaintools.com/   
+https://whois.icann.org/en    
 
 ##### 较好的第三方WHOWAS查询工具
 https://www.benmi.com/
@@ -282,7 +282,8 @@ WHOIS协议不是以全世界用户为中心的。**WHOIS服务器和/或客户�
 ICANN现在处于“重新发明WHOIS的过程”，正在从事“ICANN WHOIS Beta”的工作。      
 
 #### CNNIC技术专家主导制定互联网下一代WHOIS国际标准
-来源: http://www.cac.gov.cn/2015-03/31/c_1114815085.htm
+来源: http://www.cac.gov.cn/2015-03/31/c_1114815085.htm   
+
 2015年3月26日，在美国达拉斯召开的国际互联网工程任务组（Internet Engineering Task Force，简称IETF）第92次大会上传来消息，      
 由CNNIC技术专家参与制定的三篇下一代WHOIS协议文稿正式发布成为IETF国际标准，分别命名为RFC7480、RFC7481和RFC7485。       
 这是我国技术人员首次参与制定的互联网域名系统基础协议相关的推荐类型国际标准，      
